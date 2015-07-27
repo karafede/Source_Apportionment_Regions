@@ -7,4 +7,4 @@ to visualize the map on the web, upload the html file "https://github.com/karafe
 
 http://htmlpreview.github.io/?
 
-then you will get: http://htmlpreview.github.io/?https://github.com/karafede/Source_Apportionment_Regions/blob/master/Traffic_%PM2.5.html.html
+then you will get: http://htmlpreview.github.io/?https://github.com/karafede/Source_Apportionment_Regions/blob/master/Traffic_%PM2.5.html
