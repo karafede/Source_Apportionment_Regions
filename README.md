@@ -12,3 +12,5 @@ then you will get:
 TRAFFIC CONTRIBUTION(%) to PM2.5
 http://htmlpreview.github.io/?https://raw.githubusercontent.com/karafede/Source_Apportionment_Regions/master/Traffic_%25PM2.5.html
 
+INDUSTRY CONTRIBUTION(%) to PM2.5
+http://htmlpreview.github.io/?https://raw.githubusercontent.com/karafede/Source_Apportionment_Regions/master/Industry_%25PM2.5.html
