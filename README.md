@@ -6,7 +6,9 @@ Source Apportionment Maps for PM2.5 and PM10 from review of 397 SA records at ci
 to visualize the map on the web, upload the html file 
 "https://raw.githubusercontent.com/karafede/Source_Apportionment_Regions/master/Traffic_%25PM2.5.html" in the link below
 
-TRAFFIC CONTRIBUTION(%) to PM2.5
 http://htmlpreview.github.io/?
-then you will get: http://htmlpreview.github.io/?https://raw.githubusercontent.com/karafede/Source_Apportionment_Regions/master/Traffic_%25PM2.5.html
+then you will get:
+
+TRAFFIC CONTRIBUTION(%) to PM2.5
+http://htmlpreview.github.io/?https://raw.githubusercontent.com/karafede/Source_Apportionment_Regions/master/Traffic_%25PM2.5.html
 
