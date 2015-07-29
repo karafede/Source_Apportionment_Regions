@@ -14,3 +14,12 @@ http://htmlpreview.github.io/?https://raw.githubusercontent.com/karafede/Source_
 
 INDUSTRY CONTRIBUTION(%) to PM2.5
 http://htmlpreview.github.io/?https://raw.githubusercontent.com/karafede/Source_Apportionment_Regions/master/Industry_%25PM2.5.html
+
+DOMESTIC FUEL BURNING CONTRIBUTION(%) to PM2.5
+http://htmlpreview.github.io/?https://raw.githubusercontent.com/karafede/Source_Apportionment_Regions/master/Domestic_%25PM2.5.html
+
+UNSPECIFIED SOURCES OF HUMAN ORIGIN CONTRIBUTION(%) to PM2.5
+http://htmlpreview.github.io/?https://raw.githubusercontent.com/karafede/Source_Apportionment_Regions/master/Unspecified_%25PM2.5.html
+
+NATURAL (DUST and SEA SALT) CONTRIBUTION(%) to PM2.5
+http://htmlpreview.github.io/?https://raw.githubusercontent.com/karafede/Source_Apportionment_Regions/master/Natural_%25PM2.5.html
