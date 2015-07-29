@@ -9,6 +9,8 @@ to visualize the map on the web, upload the html file
 http://htmlpreview.github.io/?
 then you will get:
 
+#PM2.5 contributions (%)
+
 TRAFFIC CONTRIBUTION(%) to PM2.5
 http://htmlpreview.github.io/?https://raw.githubusercontent.com/karafede/Source_Apportionment_Regions/master/Traffic_%25PM2.5.html
 
@@ -23,3 +25,7 @@ http://htmlpreview.github.io/?https://raw.githubusercontent.com/karafede/Source_
 
 NATURAL (DUST and SEA SALT) CONTRIBUTION(%) to PM2.5
 http://htmlpreview.github.io/?https://raw.githubusercontent.com/karafede/Source_Apportionment_Regions/master/Natural_%25PM2.5.html
+
+
+#PM10 contributions (%)
+
