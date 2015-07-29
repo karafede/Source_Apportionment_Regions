@@ -48,3 +48,15 @@ http://htmlpreview.github.io/?https://raw.githubusercontent.com/karafede/Source_
 
 TRAFFIC PM2.5 CONCENTRATION (ug/m3)
 http://htmlpreview.github.io/?https://raw.githubusercontent.com/karafede/Source_Apportionment_Regions/master/Traffic_PM2.5_concentration.html
+
+INDUSTRY PM2.5 CONCENTRATION (ug/m3)
+http://htmlpreview.github.io/?https://raw.githubusercontent.com/karafede/Source_Apportionment_Regions/master/Industry_PM2.5_concentration.html
+
+DOMESTIC FUEL BURNING PM2.5 CONCENTRATION (ug/m3)
+http://htmlpreview.github.io/?https://raw.githubusercontent.com/karafede/Source_Apportionment_Regions/master/Domestic_PM2.5_concentration.html
+
+UNSPECIFIED SOURCES of HUMAN ORIGIN PM2.5 CONCENTRATION (ug/m3)
+http://htmlpreview.github.io/?https://raw.githubusercontent.com/karafede/Source_Apportionment_Regions/master/Unspecified_PM2.5_concentration.html
+
+NATURAL (DUST and SEA SALT) PM2.5 CONCENTRATION (ug/m3)
+http://htmlpreview.github.io/?https://raw.githubusercontent.com/karafede/Source_Apportionment_Regions/master/Natural_PM2.5_concentration.html
