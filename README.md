@@ -31,3 +31,15 @@ http://htmlpreview.github.io/?https://raw.githubusercontent.com/karafede/Source_
 
 TRAFFIC CONTRIBUTION(%) to PM10
 http://htmlpreview.github.io/?https://raw.githubusercontent.com/karafede/Source_Apportionment_Regions/master/Traffic_%25PM10.html
+
+INDUSTRY CONTRIBUTION(%) to PM10
+http://htmlpreview.github.io/?https://raw.githubusercontent.com/karafede/Source_Apportionment_Regions/master/Industry_%25PM10.html
+
+DOMESTIC FUEL BURNING CONTRIBUTION(%) to PM10
+http://htmlpreview.github.io/?https://raw.githubusercontent.com/karafede/Source_Apportionment_Regions/master/Domestic_%25PM10.html
+
+UNSPECIFIED SOURCES OF HUMAN ORIGIN CONTRIBUTION(%) to PM10
+http://htmlpreview.github.io/?https://raw.githubusercontent.com/karafede/Source_Apportionment_Regions/master/Unspecified_%25PM10.html
+
+NATURAL (DUST and SEA SALT) CONTRIBUTION(%) to PM10
+http://htmlpreview.github.io/?https://raw.githubusercontent.com/karafede/Source_Apportionment_Regions/master/Natural_%25PM10.html
